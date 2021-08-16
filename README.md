@@ -34,13 +34,13 @@
 
 ## Introduction
    
-    The Ros-Contract contract is a governance currency contract.
+  The Ros-Contract contract is a governance currency contract.
 
-    The Schedule-Contract contract is an asset scheduling contract. It is used to verify the rules when opening positions and withdrawing cash. After passing the instructions, it sends instructions to the asset management contract.
+  The Schedule-Contract contract is an asset scheduling contract. It is used to verify the rules when opening positions and withdrawing cash. After passing the instructions, it sends instructions to the asset management contract.
 
-    The Verifier-Contract contract is a zero-knowledge proof circuit verification contract, used for verification operations when the Schedule-Contract contract is withdrawn.
+  The Verifier-Contract contract is a zero-knowledge proof circuit verification contract, used for verification operations when the Schedule-Contract contract is withdrawn.
 
-    Orbit-Swift-Contract is an asset management contract, which is mainly used to store user funds. No one can embezzle it except for contracts with transaction authority.
+  Orbit-Swift-Contract is an asset management contract, which is mainly used to store user funds. No one can embezzle it except for contracts with transaction authority.
     
 
 
