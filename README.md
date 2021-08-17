@@ -29,6 +29,8 @@
 
 
 - [Introduction](#introduction)
+- [Community](#community)
+- [Contact](#contact)
 - [License](#license)
 
 
@@ -42,7 +44,13 @@
 
   Orbit-Swift-Contract is an asset management contract, which is mainly used to store user funds. No one can embezzle it except for contracts with transaction authority.
     
+## Community
 
+ DISCORD: [https://discord.gg/FEX4cBgHbR](https://discord.gg/FEX4cBgHbR)
+
+## Contact
+
+ E-MAIL: orbit@rosefin.tech
 
 ## License
 
